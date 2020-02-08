@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "kawaitodo",
+    "name": "kawai To do",
     "slug": "todolist",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
-      "web"
+      "web" 
     ],
     "version": "1.0.0",
     "orientation": "portrait",
